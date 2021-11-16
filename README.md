@@ -5,6 +5,8 @@
       let me know. Right now I am working on creating bots in discord.
 - 📫 How to reach me ... Best way to reach me for now is through gitHub. 
 
+For some special music that is great for programming. Check out [DOOM RADIO](https://www.youtube.com/watch?v=JEuAYnjtJP0)
+
 <!---
 Galliummind/Galliummind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
